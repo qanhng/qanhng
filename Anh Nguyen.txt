@@ -1,0 +1,49 @@
+Anh Nguyen
+39 Dalton St., Boston, MA 02199 | (201) 606 1316 | nguyen.anh16@northeastern.edu | Linkedin
+EDUCATION
+Northeastern University, Boston, MA
+Candidate for Bachelor of Science in Data Science and Biochemistry May 2026
+● Honors Program Member GPA: 3.96 / 4.0
+● Dean’s List – All Semesters
+Relevant courses: Genetics and Molecular Biology, Probability and Statistics, Organic Chemistry 1&2, Intermediate Programming with Data, Inquiries in Biological Sciences, Calculus 2 for Science and Engineering
+WORK EXPERIENCE
+ReNAgade Therapeutics, Cambridge, MA January 2024 - Present Bio Informatics Co-op
+● Implement features of computational applications under guidance of senior team members
+● Collaborate with scientists in research team to understand their use cases and suggest technical solutions
+● Collate data from raw sources and load into the data warehouse
+● Take part in software development life cycle tasks: designing, reviewing code, deployment
+Northeastern University College of Science, Boston, MA September 2023 – Present College of Science Ambassador
+● Demonstrate leadership and organizational skill through hosting admission events and tabling info fairs.
+● Provide insights and answer questions about the academics and experience at College of Science.
+● Connect 1:1 with newly admitted students and families to discuss the experience at Northeastern.
+OTHER EXPERIENCES
+Service Learning at Winn Residential, Boston, MA September 2022 – December 2022 Instructor
+● Led lessons on math and games for 10 children, received excellent feedback from community partners.
+● Collaborated closely with 3 students to plan engaging content and supervised classroom activities.
+La Perception Project, Vietnam July 2021 – February 2022 Graphic Designer, Organizer
+● Designed visual content for weekly posts about plastic pollution and sustainability on La Perception Project’s social media pages with 15,000+ followers, assisted in coordinating online campaigns.
+● Self-learned Adobe Illustrator and Photoshop, developed good attention to detail, strong teamwork, and communication skills through collaborating with 5 departments.
+Vietnam Australia International School, Ho Chi Minh City, Vietnam August 2020 – May 2022 Student Council Core Member
+● Organized and co-managed major school events, concerts, and campaigns for 300+ students.
+● Entrusted with designing marketing material and supervising event planning.
+     LAB SKILLS
+● In silico PCR, Primer Design 
+● Dilution 
+● Pipetting 
+● Filtration Techniques 
+● Distillations 
+● Light Microscopy 
+● Knowledge of ELISA 
+● Recrystallization 
+● Statistical analysis 
+● Titration
+● Thin Layer Chromatography 
+● Lab Documentation, ELNs
+TECHNICAL SKILLS
+● Python
+● Data Visualization
+● Data Wrangling
+● Machine Learning, NLP
+● SQL
+● MS Word, Excel, PowerPoint
+ 
